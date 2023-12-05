@@ -58,6 +58,9 @@ Data source was MySQL and few Excel files were provided for some specific metric
 * Using correct data model is key in every reporting project. It can break whole thing if not done correctly.
 * Snowflake data model was used in this project.
 
+![data_model](https://github.com/JyotishBishwakarma/Business360/assets/34642438/e8281be3-b24b-4856-a1d4-512cb84917d8)
+
+
 
 
 
