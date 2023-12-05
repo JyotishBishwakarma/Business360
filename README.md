@@ -37,3 +37,27 @@ Task - Develop an interactive report delivering crucial insights across finance,
 * Setting up personal gateway to set up the auto data refresh
 * PowerBI Services
 
+## Business Related terms
+* Gross Price
+* Pre-invoice Deductions
+* Post-invoice Deductions
+* Net invoice sales
+* Gross Margin
+* Net Profit
+* COGS
+* YTD
+* YTG
+* Net Error
+* Absolute Error
+* Forecast Accuracy
+
+## Importing data into PowerBI
+Data source was MySQL and few Excel files were provided for some specific metrics.
+
+## Data Model
+* Using correct data model is key in every reporting project. It can break whole thing if not done correctly.
+* Snowflake data model was used in this project.
+
+
+
+
